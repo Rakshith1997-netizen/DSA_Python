@@ -34,4 +34,3 @@ Clone and run any file directly to explore the data structure:
 ```bash
 git clone https://github.com/your-username/DSA_Python.git
 cd DSA_Python
-python LinkedList.py
